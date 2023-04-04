@@ -1,8 +1,5 @@
-class Hello
-{
-	Public static void main(String args[])
-	{
-		System.out.println("hello world, in the year 2023");
-	}
+public class helloworld {
+   public static void main(String[] args) {
+    System.out.println("Hello World - Feb 19th 2023 - 09:05PM - triggered by webhook");
+    }
 }
-
